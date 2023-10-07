@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Truly IAS</string>
+    <string name="signup"><font color="#00000">Don\'t have an account?</font> <font color="#0000FF">Sign up Here</font></string>
+    <string name="login"> <font color="#00000">Already have an account?</font> <font color="#0000FF">Login Here</font></string>
 </resources>
